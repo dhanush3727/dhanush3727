@@ -21,23 +21,19 @@ I work primarily with **React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL,
 ## 🛠️ Tech Stack
 ### Frontend
 
-<p> <img src="https://cdn.simpleicons.org/react/61DAFB" width="45" alt="React" /> <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="45" alt="Next.js" /> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="45" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" alt="JavaScript" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" alt="Tailwind CSS" /> </p>
+<p> <img width="50" height="50" src="https://img.icons8.com/office/40/react.png" alt="react"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> </p>
 
 ### Backend
 
-<p> <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45" alt="Node.js" /> <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="45" alt="NestJS" /> <img src="https://cdn.simpleicons.org/express/FFFFFF" width="45" alt="Express.js" /> </p>
+<p> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/> </p>
 
 ### Database & ORM
 
-<p> <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="PostgreSQL" /> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" alt="MongoDB" /> <img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="45" alt="Prisma" /> </p>
+<p> <img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="prisma-orm"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/> </p>
 
-### State Management & Data Fetching
+### DevOps & Version Control
 
-<p> <img src="https://cdn.simpleicons.org/zustand/FFFFFF" width="45" alt="Zustand" /> <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="45" alt="TanStack Query" /> <img src="https://cdn.simpleicons.org/axios/5A29E4" width="45" alt="Axios" /> </p>
-
-### Tools & DevOps
-
-<p> <img src="https://cdn.simpleicons.org/git/F05032" width="45" alt="Git" /> <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" alt="GitHub" /> <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" alt="Docker" /> <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" alt="Postman" /> <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="45" alt="Vercel" /> </p>
+<p> <img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="50" height="50" src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/> </p>
 ---
 
 ## 💻 Featured Project
@@ -58,6 +54,8 @@ I work primarily with **React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL,
 * 📈 MTBF & MTTR Reports
 * 🔔 Notifications
 * ⚙️ System Settings
+
+[🌐 Live Demo](https://maintix-copy.vercel.app/)
 
 ### Technology
 
