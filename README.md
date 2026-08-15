@@ -194,15 +194,6 @@ Primary professional technologies include **React.js, Next.js, TypeScript, JavaS
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush3727&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush3727&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p>
