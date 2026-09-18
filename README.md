@@ -2,7 +2,7 @@
 
 ### Software Developer | React.js | Next.js | TypeScript | Full-Stack Development
 
-Software Developer with **1+ years of professional experience** building modern web applications using React.js, Next.js, TypeScript, and JavaScript.
+Software Developer with **2 years of professional experience** building modern web applications using React.js, Next.js, TypeScript, and JavaScript.
 
 I specialize in developing scalable and maintainable frontend applications and have hands-on full-stack development experience with **Node.js, NestJS, Express.js, PostgreSQL, Prisma, MongoDB, and Mongoose**.
 
